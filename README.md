@@ -1,4 +1,4 @@
-### Hi, I'm Matheus Filipe ✌️
+### Olá! Eu sou Matheus Filipe ✌️
 
 [![Youtube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/channel/UC3bSvWZH4aPZ8qMZUKW_VjA)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/__matheusflsilva__/)
@@ -16,4 +16,4 @@
     <img align="center" alt="C-Sharp" src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white">
 </div></br>
 
-Gosto bastante da área de TI, as tecnologias sempre vão inovando e sempre temos algo de novo para aprender.
+Sou apaixonado por tecnologias, pois sempre temos algo de novo a aprender. Somos desafiados a todo momento.
