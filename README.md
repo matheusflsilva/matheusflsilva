@@ -4,7 +4,9 @@
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/__matheusflsilva__/)
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/matheusflsilvaa)
 
-![Matheus GitHub stats](https://github-readme-stats.vercel.app/api?username=matheusflsilva&show_icons=true&theme=tokyonight)
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=matheusflsilva&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+</div>
 
 ## Tecnologias que eu uso
 
